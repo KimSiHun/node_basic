@@ -1,0 +1,25 @@
+{
+  "name": "node_basic",
+  "version": "0.1.0",
+  "description": "study nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimSiHun/node_basic.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "kimsihun",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/KimSiHun/node_basic/issues"
+  },
+  "homepage": "https://github.com/KimSiHun/node_basic#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
